@@ -42,5 +42,3 @@ We're always open to feedback and suggestions. If you have any ideas for improvi
 
 #### License:
 This project is licensed under the [MIT License](LICENSE), so feel free to fork, modify, and distribute the code according to your needs.
-
----
